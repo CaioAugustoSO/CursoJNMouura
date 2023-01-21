@@ -1,0 +1,8 @@
+C:\Users\l\Desktop\curso\básico\somar\bin\Debug\somar.exe.config
+C:\Users\l\Desktop\curso\básico\somar\bin\Debug\somar.exe
+C:\Users\l\Desktop\curso\básico\somar\bin\Debug\somar.pdb
+C:\Users\l\Desktop\curso\básico\somar\obj\Debug\somar.csproj.AssemblyReference.cache
+C:\Users\l\Desktop\curso\básico\somar\obj\Debug\somar.csproj.SuggestedBindingRedirects.cache
+C:\Users\l\Desktop\curso\básico\somar\obj\Debug\somar.csproj.CoreCompileInputs.cache
+C:\Users\l\Desktop\curso\básico\somar\obj\Debug\somar.exe
+C:\Users\l\Desktop\curso\básico\somar\obj\Debug\somar.pdb
