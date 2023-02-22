@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\básico2\Pescador\bin\Debug\Pescador.exe.config
+C:\Users\ui\Desktop\curso\básico2\Pescador\bin\Debug\Pescador.exe
+C:\Users\ui\Desktop\curso\básico2\Pescador\bin\Debug\Pescador.pdb
+C:\Users\ui\Desktop\curso\básico2\Pescador\obj\Debug\Pescador.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\básico2\Pescador\obj\Debug\Pescador.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\básico2\Pescador\obj\Debug\Pescador.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\básico2\Pescador\obj\Debug\Pescador.exe
+C:\Users\ui\Desktop\curso\básico2\Pescador\obj\Debug\Pescador.pdb

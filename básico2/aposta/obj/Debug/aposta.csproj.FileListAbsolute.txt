@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\básico2\aposta\bin\Debug\aposta.exe.config
+C:\Users\ui\Desktop\curso\básico2\aposta\bin\Debug\aposta.exe
+C:\Users\ui\Desktop\curso\básico2\aposta\bin\Debug\aposta.pdb
+C:\Users\ui\Desktop\curso\básico2\aposta\obj\Debug\aposta.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\básico2\aposta\obj\Debug\aposta.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\básico2\aposta\obj\Debug\aposta.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\básico2\aposta\obj\Debug\aposta.exe
+C:\Users\ui\Desktop\curso\básico2\aposta\obj\Debug\aposta.pdb

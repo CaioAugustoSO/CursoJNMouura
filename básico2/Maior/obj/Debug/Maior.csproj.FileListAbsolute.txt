@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\básico2\Maior\bin\Debug\Maior.exe.config
+C:\Users\ui\Desktop\curso\básico2\Maior\bin\Debug\Maior.exe
+C:\Users\ui\Desktop\curso\básico2\Maior\bin\Debug\Maior.pdb
+C:\Users\ui\Desktop\curso\básico2\Maior\obj\Debug\Maior.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\básico2\Maior\obj\Debug\Maior.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\básico2\Maior\obj\Debug\Maior.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\básico2\Maior\obj\Debug\Maior.exe
+C:\Users\ui\Desktop\curso\básico2\Maior\obj\Debug\Maior.pdb

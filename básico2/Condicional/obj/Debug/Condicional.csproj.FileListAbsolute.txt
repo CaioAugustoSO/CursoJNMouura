@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\básico2\Condicional\bin\Debug\Condicional.exe.config
+C:\Users\ui\Desktop\curso\básico2\Condicional\bin\Debug\Condicional.exe
+C:\Users\ui\Desktop\curso\básico2\Condicional\bin\Debug\Condicional.pdb
+C:\Users\ui\Desktop\curso\básico2\Condicional\obj\Debug\Condicional.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\básico2\Condicional\obj\Debug\Condicional.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\básico2\Condicional\obj\Debug\Condicional.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\básico2\Condicional\obj\Debug\Condicional.exe
+C:\Users\ui\Desktop\curso\básico2\Condicional\obj\Debug\Condicional.pdb

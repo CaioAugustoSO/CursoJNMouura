@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\básico2\Programaeleição\bin\Debug\Programaeleição.exe.config
+C:\Users\ui\Desktop\curso\básico2\Programaeleição\bin\Debug\Programaeleição.exe
+C:\Users\ui\Desktop\curso\básico2\Programaeleição\bin\Debug\Programaeleição.pdb
+C:\Users\ui\Desktop\curso\básico2\Programaeleição\obj\Debug\Programaeleição.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\básico2\Programaeleição\obj\Debug\Programaeleição.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\básico2\Programaeleição\obj\Debug\Programaeleição.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\básico2\Programaeleição\obj\Debug\Programaeleição.exe
+C:\Users\ui\Desktop\curso\básico2\Programaeleição\obj\Debug\Programaeleição.pdb

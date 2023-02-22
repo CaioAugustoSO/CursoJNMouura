@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\básico2\Luta\bin\Debug\Luta.exe.config
+C:\Users\ui\Desktop\curso\básico2\Luta\bin\Debug\Luta.exe
+C:\Users\ui\Desktop\curso\básico2\Luta\bin\Debug\Luta.pdb
+C:\Users\ui\Desktop\curso\básico2\Luta\obj\Debug\Luta.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\básico2\Luta\obj\Debug\Luta.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\básico2\Luta\obj\Debug\Luta.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\básico2\Luta\obj\Debug\Luta.exe
+C:\Users\ui\Desktop\curso\básico2\Luta\obj\Debug\Luta.pdb

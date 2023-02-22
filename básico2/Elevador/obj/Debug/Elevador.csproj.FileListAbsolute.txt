@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\básico2\Elevador\bin\Debug\Elevador.exe.config
+C:\Users\ui\Desktop\curso\básico2\Elevador\bin\Debug\Elevador.exe
+C:\Users\ui\Desktop\curso\básico2\Elevador\bin\Debug\Elevador.pdb
+C:\Users\ui\Desktop\curso\básico2\Elevador\obj\Debug\Elevador.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\básico2\Elevador\obj\Debug\Elevador.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\básico2\Elevador\obj\Debug\Elevador.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\básico2\Elevador\obj\Debug\Elevador.exe
+C:\Users\ui\Desktop\curso\básico2\Elevador\obj\Debug\Elevador.pdb

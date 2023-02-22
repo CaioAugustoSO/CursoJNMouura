@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\colecoes\Invertidos\obj\Debug\Invertidos.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\colecoes\Invertidos\obj\Debug\Invertidos.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\colecoes\Invertidos\obj\Debug\Invertidos.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\colecoes\Invertidos\bin\Debug\Invertidos.exe.config
+C:\Users\ui\Desktop\curso\colecoes\Invertidos\bin\Debug\Invertidos.exe
+C:\Users\ui\Desktop\curso\colecoes\Invertidos\bin\Debug\Invertidos.pdb
+C:\Users\ui\Desktop\curso\colecoes\Invertidos\obj\Debug\Invertidos.exe
+C:\Users\ui\Desktop\curso\colecoes\Invertidos\obj\Debug\Invertidos.pdb

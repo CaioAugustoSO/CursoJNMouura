@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\escola\escola\bin\Debug\escola.exe.config
+C:\Users\ui\Desktop\curso\escola\escola\bin\Debug\escola.exe
+C:\Users\ui\Desktop\curso\escola\escola\bin\Debug\escola.pdb
+C:\Users\ui\Desktop\curso\escola\escola\obj\Debug\escola.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\escola\escola\obj\Debug\escola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\escola\escola\obj\Debug\escola.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\escola\escola\obj\Debug\escola.exe
+C:\Users\ui\Desktop\curso\escola\escola\obj\Debug\escola.pdb

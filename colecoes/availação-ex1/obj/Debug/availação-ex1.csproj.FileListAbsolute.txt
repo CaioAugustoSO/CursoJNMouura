@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\colecoes\availação-ex1\obj\Debug\availação-ex1.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\colecoes\availação-ex1\obj\Debug\availação-ex1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\colecoes\availação-ex1\obj\Debug\availação-ex1.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\colecoes\availação-ex1\bin\Debug\availação-ex1.exe.config
+C:\Users\ui\Desktop\curso\colecoes\availação-ex1\bin\Debug\availação-ex1.exe
+C:\Users\ui\Desktop\curso\colecoes\availação-ex1\bin\Debug\availação-ex1.pdb
+C:\Users\ui\Desktop\curso\colecoes\availação-ex1\obj\Debug\availação-ex1.exe
+C:\Users\ui\Desktop\curso\colecoes\availação-ex1\obj\Debug\availação-ex1.pdb

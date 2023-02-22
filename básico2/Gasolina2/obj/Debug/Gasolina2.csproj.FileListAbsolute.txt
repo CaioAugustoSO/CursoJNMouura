@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\básico2\Gasolina2\bin\Debug\Gasolina2.exe.config
+C:\Users\ui\Desktop\curso\básico2\Gasolina2\bin\Debug\Gasolina2.exe
+C:\Users\ui\Desktop\curso\básico2\Gasolina2\bin\Debug\Gasolina2.pdb
+C:\Users\ui\Desktop\curso\básico2\Gasolina2\obj\Debug\Gasolina2.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\básico2\Gasolina2\obj\Debug\Gasolina2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\básico2\Gasolina2\obj\Debug\Gasolina2.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\básico2\Gasolina2\obj\Debug\Gasolina2.exe
+C:\Users\ui\Desktop\curso\básico2\Gasolina2\obj\Debug\Gasolina2.pdb

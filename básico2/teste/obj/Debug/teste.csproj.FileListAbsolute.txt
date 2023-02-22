@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\básico2\teste\bin\Debug\teste.exe.config
+C:\Users\ui\Desktop\curso\básico2\teste\bin\Debug\teste.exe
+C:\Users\ui\Desktop\curso\básico2\teste\bin\Debug\teste.pdb
+C:\Users\ui\Desktop\curso\básico2\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\básico2\teste\obj\Debug\teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\básico2\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\básico2\teste\obj\Debug\teste.exe
+C:\Users\ui\Desktop\curso\básico2\teste\obj\Debug\teste.pdb

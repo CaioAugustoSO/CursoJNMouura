@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\básico2\Idades\bin\Debug\Idades.exe.config
+C:\Users\ui\Desktop\curso\básico2\Idades\bin\Debug\Idades.exe
+C:\Users\ui\Desktop\curso\básico2\Idades\bin\Debug\Idades.pdb
+C:\Users\ui\Desktop\curso\básico2\Idades\obj\Debug\Idades.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\básico2\Idades\obj\Debug\Idades.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\básico2\Idades\obj\Debug\Idades.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\básico2\Idades\obj\Debug\Idades.exe
+C:\Users\ui\Desktop\curso\básico2\Idades\obj\Debug\Idades.pdb

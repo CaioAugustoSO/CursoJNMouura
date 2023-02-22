@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\colecoes\Corrida\bin\Debug\Corrida.exe.config
+C:\Users\ui\Desktop\curso\colecoes\Corrida\bin\Debug\Corrida.exe
+C:\Users\ui\Desktop\curso\colecoes\Corrida\bin\Debug\Corrida.pdb
+C:\Users\ui\Desktop\curso\colecoes\Corrida\obj\Debug\Corrida.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\colecoes\Corrida\obj\Debug\Corrida.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\colecoes\Corrida\obj\Debug\Corrida.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\colecoes\Corrida\obj\Debug\Corrida.exe
+C:\Users\ui\Desktop\curso\colecoes\Corrida\obj\Debug\Corrida.pdb

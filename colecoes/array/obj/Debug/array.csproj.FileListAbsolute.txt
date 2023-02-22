@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\colecoes\array\bin\Debug\array.exe.config
+C:\Users\ui\Desktop\curso\colecoes\array\bin\Debug\array.exe
+C:\Users\ui\Desktop\curso\colecoes\array\bin\Debug\array.pdb
+C:\Users\ui\Desktop\curso\colecoes\array\obj\Debug\array.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\colecoes\array\obj\Debug\array.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\colecoes\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\colecoes\array\obj\Debug\array.exe
+C:\Users\ui\Desktop\curso\colecoes\array\obj\Debug\array.pdb

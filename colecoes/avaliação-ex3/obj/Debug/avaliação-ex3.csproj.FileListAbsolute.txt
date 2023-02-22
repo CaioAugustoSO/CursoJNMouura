@@ -1,0 +1,8 @@
+C:\Users\ui\Desktop\curso\colecoes\avaliação-ex3\bin\Debug\avaliação-ex3.exe.config
+C:\Users\ui\Desktop\curso\colecoes\avaliação-ex3\bin\Debug\avaliação-ex3.exe
+C:\Users\ui\Desktop\curso\colecoes\avaliação-ex3\bin\Debug\avaliação-ex3.pdb
+C:\Users\ui\Desktop\curso\colecoes\avaliação-ex3\obj\Debug\avaliação-ex3.csproj.AssemblyReference.cache
+C:\Users\ui\Desktop\curso\colecoes\avaliação-ex3\obj\Debug\avaliação-ex3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ui\Desktop\curso\colecoes\avaliação-ex3\obj\Debug\avaliação-ex3.csproj.CoreCompileInputs.cache
+C:\Users\ui\Desktop\curso\colecoes\avaliação-ex3\obj\Debug\avaliação-ex3.exe
+C:\Users\ui\Desktop\curso\colecoes\avaliação-ex3\obj\Debug\avaliação-ex3.pdb
